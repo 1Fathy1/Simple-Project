@@ -17,6 +17,6 @@ This project is a simple PHP application that allows you to add users, edit thei
 1. **Clone the project**:
    You can clone the project to your machine using Git:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/1Fathy1/Simple-Project.git
    cd repository
 
